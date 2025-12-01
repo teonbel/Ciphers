@@ -72,3 +72,6 @@ def vigenere_decrypt(cipher, key):
 ###############################################################
 # Streamlit UI
 ###############################################################
+import streamlit as st
+
+st.title("Vigenère Solver")
