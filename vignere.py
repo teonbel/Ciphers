@@ -75,3 +75,4 @@ def vigenere_decrypt(cipher, key):
 import streamlit as st
 
 st.title("Vigenère Solver")
+
